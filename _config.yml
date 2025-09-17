@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          Taller de Computación
 description:    "Taller de Computación"
 baseurl:        "/tale"
 url:            "https://chesterhow.github.io"
@@ -8,10 +8,10 @@ url:            "https://chesterhow.github.io"
 google_analytics: UA—XXXXXXXX-X
 
 # Author
-author:
-  name:         Chester How
+author:         Anneliese Nicolle Martínez Sánchez
+  name:         Anneliese
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        anneliesenmartinez@gmail.com
 
 # Build settings
 markdown:       kramdown
